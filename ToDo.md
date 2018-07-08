@@ -1,4 +1,4 @@
-1)Add real functionality to it (timer)
+1)Add real functionality to it (timer).
 
 2)Reset the class using a method or any other possible way.
 
