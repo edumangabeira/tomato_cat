@@ -43,7 +43,7 @@ class ClickIt:
 		print("A cat that eats tomatoes. It will never let you procrastinate with this much of vitamins.\nThe poor little fella needs to be fed, so keep your hands on the job!!.")
 
 	def open_portability(self):
-		print("Until then it works fine on Win7. A new version shall be built for Linux pretty soon")
+		print("Until then it works fine on Win7. A new version shall be built for Unix-like systems pretty soon in case of need")
 
 root = Tk()
 click = ClickIt(root)
